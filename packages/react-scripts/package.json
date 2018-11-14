@@ -1,18 +1,18 @@
 {
     "name": "guan-react-scripts",
     "private": false,
-    "version": "0.0.4",
+    "version": "0.0.5",
     "description": "Configuration and scripts for Create React App.",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/agungkes/create-react-app.git"
+        "url": "git+https://github.com/agungkes/react-scripts.git"
     },
     "license": "MIT",
     "engines": {
         "node": ">=6"
     },
     "bugs": {
-        "url": "https://github.com/facebook/create-react-app/issues"
+        "url": "https://github.com/facebook/react-scripts/issues"
     },
     "files": [
         "bin",
@@ -96,7 +96,7 @@
         "not ie <= 11",
         "not op_mini all"
     ],
-    "homepage": "https://github.com/agungkes/create-react-app#readme",
+    "homepage": "https://github.com/agungkes/react-scripts#readme",
     "main": "index.js",
     "directories": {
         "lib": "lib"
