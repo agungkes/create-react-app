@@ -221,7 +221,7 @@ module.exports = function(
 
     const addDependencies = spawn.sync(
         command,
-        args.concat('-S').concat(types),
+        args.concat('-S').concat(additionalDependencies),
         {
             stdio: 'inherit'
         }
